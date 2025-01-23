@@ -1,0 +1,784 @@
+[
+  {
+    "id": 1,
+    "title": "Small and big business moving",
+    "intro": "Moving a business, whether it’s just a small office or a sprawling store, can feel like a huge undertaking. But with Can Discount Moving, you’re in good hands! We offer top-notch moving services that work for any size business across Canada, including Ontario and BC, ensuring high-quality service every time.",
+    "cards": [
+      {
+        "title": "Customized Solutions for <br/> Every Business",
+        "content": "Let’s be honest: no two businesses are exactly the same. That’s why we customize our moving plans to fit your specific needs. Small office? No problem. Huge warehouse? We’ve got it under control. We handle it all with precision and care, no matter how big or small."
+      },
+      {
+        "title": "Small Business Moves: We Keep It <br/> Simple",
+        "content": "If you’ve got a small business, downtime isn’t an option, right? We make sure your move happens smoothly, so your business is back up and running in no time. Whether it’s office furniture, tech, or important documents, we handle everything with kid gloves. Less stress, more progress!"
+      },
+      {
+        "title": "Big Moves for <br/> Big Businesses",
+        "content": "Now, if you’ve got a larger operation, like a retail store or warehouse, it’s all about the details. Our team knows how to manage those big jobs with ease—careful planning, logistics, and heavy lifting all rolled into one. You’ll be in your new space before you know it!"
+      },
+      {
+        "title": "Full-Service Moving: From Start <br/> to Finish",
+        "content": "We don’t just move your stuff—we take care of everything. Pre-move planning, packing, transport, unpacking, and even setting up your office again. It’s all part of the package!"
+      },
+      {
+        "title": "Why Pick <br/> Can Discount Moving?",
+        "content": "Simple: we’re efficient, reliable, and we’ll get your move done on time and within budget. Whether it’s a small job or a big corporate move, we’ve got you covered with high-quality service across Ontario and BC."
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Schools and public areas moving",
+    "intro": "Relocating schools, libraries, or community centers requires precision and efficiency. Can Discount Moving provides specialized moving services, ensuring every detail is covered. With our experienced team, your move becomes smooth and seamless, allowing you to focus on serving your community without interruptions. We proudly offer our high-quality services across Ontario and British Columbia.",
+    "cards": [
+      {
+        "title": "Tailored Moving Solutions <br/> for Schools",
+        "content": "Moving a school involves much more than desks and textbooks. It demands thorough planning to relocate classrooms, offices, and specialized areas efficiently. Can Discount Moving collaborates closely with school administrators to create custom moving plans. We ensure:",
+        "list": [
+          {
+            "title": "Classroom Equipment: ",
+            "text": "Our team securely packs and sets up desks, chairs, and educational materials at the new location."
+          },
+          {
+            "title": "Technology: ",
+            "text": "We carefully move computers, projectors, and lab equipment, ensuring everything works as expected upon arrival."
+          },
+          {
+            "title": "Administrative Offices:",
+            "text": "We transport files, office furniture, and supplies, so school operations continue without disruption."
+          }
+        ]
+      },
+      {
+        "title": "Efficient Moving <br/> for Libraries",
+        "content": "Libraries serve as vital community resources, so moving them requires extra care. Can Discount Moving takes special measures to transport books and materials safely across Ontario and BC. We offer:",
+        "list": [
+          {
+            "title": "Cataloging: ",
+            "text": "Our team helps catalog and organize your collection to ensure everything is re-shelved accurately."
+          },
+          {
+            "title": "Protective Packing: ",
+            "text": "High-quality packing materials protect books and media during the move."
+          },
+          {
+            "title": "Specialized Equipment: ",
+            "text": "We handle shelving units and digital systems with care, setting them up in the new space efficiently."
+          }
+        ]
+      },
+      {
+        "title": "Streamlined Relocation for <br/> Community Centers",
+        "content": "Community centers offer a variety of services and activities, which makes their relocation a significant task. We provide:",
+        "list": [
+          {
+            "title": "Furniture and Fixtures: ",
+            "text": "Our team carefully relocates meeting room furniture and recreational area fixtures."
+          },
+          {
+            "title": "Activity Equipment:",
+            "text": "We securely pack and transport sports gear, craft supplies, and other materials used in the center."
+          },
+          {
+            "title": "Administrative Offices: ",
+            "text": "Office equipment and supplies are moved to ensure smooth transitions and ongoing operations"
+          }
+        ]
+      },
+      {
+        "title": "Why Choose <br/> Can Discount Moving?",
+        "content": "We stand out because:",
+        "list": [
+          {
+            "title": "Experienced Teams:",
+            "text": " Our professionals bring extensive experience in educational and public facility relocations across Ontario and BC."
+          },
+          {
+            "title": "Attention to Detail: ",
+            "text": "We handle every item with precision, ensuring a safe and efficient move."
+          },
+          {
+            "title": "Minimized Disruption: ",
+            "text": "Our planning reduces downtime and disruption to your daily operations."
+          },
+          {
+            "title": "Reliable Service: ",
+            "text": "Count on us to deliver your move on time and within your budget."
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Senior moving",
+    "intro": "Transitioning to a new home or retirement community is a significant life event, especially for seniors. At Can Discount Moving, we understand the unique challenges and emotional aspects of relocating later in life. Our specialized senior moving services offer a compassionate and efficient experience, ensuring that your transition is as smooth and stress-free as possible. We proudly provide high-quality moving services across Ontario and British Columbia, handling every detail with care, allowing you to focus on embracing your next chapter with confidence and ease.",
+    "cards": [
+      {
+        "title": "Tailored Moving Solutions <br/> for Seniors",
+        "content": "Moving at any age can be overwhelming, but for seniors, additional considerations often arise. At Can Discount Moving, we customize our services to meet the unique needs of older adults. We approach each move with empathy, patience, and professionalism, ensuring that every step is managed with respect and care. Here’s how we simplify the process:"
+      },
+      {
+        "title": "Personalized Moving Plan",
+        "content": "We believe every move is unique, just like every person’s situation. Our team collaborates with you to create a tailored moving plan that aligns with your needs and preferences. Whether you’re downsizing, relocating to a retirement community, or moving closer to family, we ensure the process meets your expectations efficiently."
+      },
+      {
+        "title": "Comprehensive Senior <br/> Moving Services",
+        "content": "Can Discount Moving provides a full range of services to make your move smooth:",
+        "list": [
+          {
+            "title": "Packing and Unpacking:",
+            "text": "Our professional packers use high-quality materials to pack your items securely. From delicate keepsakes to everyday essentials, we ensure everything arrives safely at your new home. After the move, we assist with unpacking and organizing, helping you settle in quickly."
+          },
+          {
+            "title": "Downsizing Assistance:",
+            "text": "If you’re moving to a smaller space, we offer downsizing support to help you sort through belongings. Our team helps with organizing items for donation, sale, or disposal, easing the transition.F"
+          },
+          {
+            "title": "Furniture and Equipment Handling:",
+            "text": "We take care of your furniture and household equipment with utmost care, ensuring each item is transported safely. Whether it’s a favorite chair or essential medical devices, we handle everything carefully."
+          },
+          {
+            "title": "Setup and Arrangement: ",
+            "text": "Once we arrive, we help set up and arrange your items according to your preferences. Our goal is to ensure your new space feels like home from day one."
+          },
+          {
+            "title": "Transition Support:",
+            "text": "Throughout the move, we offer ongoing support to answer questions and address concerns, ensuring the process remains as smooth as possible."
+          }
+        ]
+      },
+      {
+        "title": "Why Choose Can Discount Moving for <br/>   Senior Relocations?",
+        "content": "Choosing Can Discount Moving means selecting a team that prioritizes your comfort. Here’s why seniors across Ontario and British Columbia trust us:",
+        "list": [
+          {
+            "title": "Expertise and Experience:",
+            "text": "Our team has vast experience handling senior relocations, making sure every aspect of your move is managed with care and professionalism."
+          },
+          {
+            "title": "Attention to Detail: ",
+            "text": "We focus on every detail, from packing and transport to setting up your new space. Nothing is overlooked, ensuring your move goes smoothly."
+          },
+          {
+            "title": "Compassionate Care: ",
+            "text": "We provide not only efficient service but also compassion and respect. Our team understands the emotional side of moving, and we strive to make the experience as positive as possible."
+          },
+          {
+            "title": "Reliable and Efficient: ",
+            "text": "We are committed to being reliable and completing your move on time and within budget, allowing you to trust us fully."
+          }
+        ]
+      },
+      {
+        "title": "Compassionate and <br/> Respectful Service",
+        "content": "Our movers not only handle the physical move but also offer emotional support. We understand that leaving a long-time home can be difficult, so our team approaches each move with empathy. From carefully packing cherished belongings to setting up your new space, we’re here to support you every step of the way."
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Student moving",
+    "intro": "Moving as a student can be both exciting and stressful. Whether you’re heading to university for the first time, switching dorms, or relocating to an off-campus apartment, Can Discount Moving is here to help. Offering student moving services across Ontario and British Columbia (BC), we specialize in making your transition smooth, efficient, and affordable.",
+    "cards": [
+      {
+        "title": "Tailored Moving Services <br/> for Students",
+        "content": "We understand that student moves come with unique challenges, from tight budgets to busy academic schedules. That’s why we offer flexible, budget-friendly solutions that are customized to meet your specific needs. Our services include:",
+        "list": [
+          {
+            "title": "Packing and Unpacking Assistance: ",
+            "text": "Our team handles your belongings with care, ensuring that your move is stress-free from start to finish."
+          },
+          {
+            "title": "Furniture Handling: ",
+            "text": "Whether it’s a small dorm setup or a shared apartment, we ensure safe transport of your essentials."
+          },
+          {
+            "title": "Last-Minute Moves: ",
+            "text": "Got a sudden relocation? We can help with quick, reliable moving services to keep your schedule on track."
+          },
+          {
+            "title": "Storage Solutions: ",
+            "text": "If you need temporary storage between semesters, we offer secure and affordable options."
+          }
+        ]
+      },
+      {
+        "title": "Why Choose <br/> Can Discount Moving?",
+        "content": "We’re more than just a moving company—we’re your partner in creating a hassle-free moving experience. With our Ontario and BC operations, we are well-equipped to support students throughout these regions with:",
+        "list": [
+          {
+            "title": "Affordable Rates: ",
+            "text": "We know students often work within tight budgets, so we offer competitive pricing with no hidden fees."
+          },
+          {
+            "title": "Professional Service: ",
+            "text": "Our experienced team ensures a reliable and efficient move, allowing you to focus on your studies."
+          },
+          {
+            "title": "Flexible Scheduling: ",
+            "text": "We work around your academic calendar and lease terms to ensure a smooth move without disrupting your plans."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "House moving",
+    "intro": "Moving to a new home is an exciting chapter, but it often comes with challenges. At Can Discount Moving, we understand that a successful move is more than just transporting belongings—it’s about ensuring a seamless transition. We offer professional house moving services across Ontario and British Columbia, helping you make this process as stress-free as possible.",
+    "cards": [
+      {
+        "title": "Personalized Moving Plans for <br/> Every Household",
+        "content": "No two households are the same, and neither are their moving needs. Whether you’re relocating from a cozy apartment or a larger home, our services are tailored to fit your unique situation. Our experienced team will collaborate with you to create a customized moving plan that covers every detail, ensuring a smooth and well-organized move."
+      },
+      {
+        "title": "Full-Service Packing and <br/> Unpacking Assistance",
+        "content": "Packing an entire home can feel overwhelming, especially when you’re managing everyday life. That’s why we offer full-service packing assistance. Our professional packers use durable materials to securely handle everything from delicate items to bulky furniture. Upon arrival, we also help unpack and organize your new space so you can settle in comfortably."
+      },
+      {
+        "title": "Why Can Discount Moving Is Your <br/> Best Choice",
+        "content": "",
+        "list": [
+          {
+            "title": "Experienced and Skilled Team: ",
+            "text": "Our movers bring years of experience handling residential moves of all sizes across Ontario and BC."
+          },
+          {
+            "title": "Affordable Pricing: ",
+            "text": "We offer transparent, competitive rates without hidden fees, making top-quality service accessible."
+          },
+          {
+            "title": "Reliable and Punctual: ",
+            "text": "We work on your schedule, ensuring that your move is completed on time."
+          },
+          {
+            "title": "Customer-First Approach: ",
+            "text": "Your satisfaction is our priority, and we strive to make your move as seamless as possible."
+          }
+        ]
+      },
+      {
+        "title": "Safe and Efficient Transport for <br/> Your Belongings",
+        "content": "Our moving team prioritizes the safety of your possessions throughout the entire process. We handle everything with care, ensuring that all items—from heavy furniture to fragile objects—arrive at your new home in pristine condition. You can rely on us to provide timely and efficient transport for a smooth transition."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Nursing home",
+    "intro": "At Can Discount Moving, we understand that moving to a nursing home is a significant life change. Therefore, we offer caring and efficient nursing home moving services across Ontario and BC. Our team ensures the process is smooth so that you can focus on your loved ones while we handle all the details. ",
+    "cards": [
+      {
+        "title": "Tailored Moving Solutions <br/> for Seniors",
+        "content": "Nursing home moves often come with unique challenges. To address these, we create personalized plans. We work closely with families and staff, managing everything from personal belongings to medical equipment."
+      },
+      {
+        "title": "Personalized Planning",
+        "content": "We plan every move with great care. By coordinating with you and the nursing home, we minimize stress. Our goal is to respect schedules and handle every item with care."
+      },
+      {
+        "title": "Careful Handling of Belongings",
+        "content": "We understand how important personal items are. So, we treat each belonging with special attention. Whether it’s furniture or family heirlooms, we ensure they reach their new home safely."
+      },
+      {
+        "title": "Transporting Medical Equipment",
+        "content": "If your loved one uses medical equipment, we ensure its safe transport. Our team takes extra care so that the equipment arrives and is set up for immediate use."
+      },
+      {
+        "title": "Why Choose <br/> Can Discount Moving?",
+        "content": "Many families trust Can Discount Moving for our compassion, efficiency, and respect. We handle every nursing home move with professionalism, making sure your loved one is comfortable and secure.",
+        "list": [
+          {
+            "title": "Experienced Movers: ",
+            "text": "Our team has years of experience with senior relocations."
+          },
+          {
+            "title": "Compassionate Service: ",
+            "text": "We know this is a delicate time, and we handle it with care."
+          },
+          {
+            "title": "Reliable and Efficient: ",
+            "text": "We ensure a smooth, timely transition for your loved one."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": " Junk removal ",
+    "intro": "Dealing with unwanted items and clutter can be overwhelming, but Can Discount Moving is here to make the process simple and stress-free. Our junk removal services cater to both residential and commercial needs, offering efficient and eco-friendly solutions for clearing out unwanted items from your space across Ontario and British Columbia.",
+    "cards": [
+      {
+        "title": "Efficient and Reliable Junk Removal",
+        "content": "At Can Discount Moving, we understand the importance of a clutter-free environment. Our team provides prompt and reliable junk removal services, handling everything from old furniture and appliances to yard waste and construction debris. We prioritize your convenience and ensure that the removal process is quick and efficient across Ontario and BC."
+      },
+      {
+        "title": "Eco-Friendly Disposal",
+        "content": "We are committed to environmentally responsible disposal practices. Our team sorts through items to recycle and donate what we can, minimizing the impact on landfills. We strive to ensure that your junk is disposed of in the most sustainable way possible, helping you reduce your carbon footprint in both Ontario and British Columbia."
+      },
+      {
+        "title": "Comprehensive Services",
+        "content": "Our junk removal services include:",
+        "list": [
+          {
+            "title": "Residential Junk Removal: ",
+            "text": "Whether you’re cleaning out your garage, attic, or basement, we handle all types of household junk."
+          },
+          {
+            "title": "Commercial Junk Removal: ",
+            "text": "From office furniture to retail waste, we provide efficient removal for businesses."
+          },
+          {
+            "title": "Construction Debris Removal: ",
+            "text": "We clear out debris from renovation projects, ensuring your site remains tidy and safe."
+          },
+          {
+            "title": "Yard Waste Removal: ",
+            "text": "Our team takes care of leaves, branches, and other yard waste, leaving your outdoor space clean and neat."
+          }
+        ]
+      },
+      {
+        "title": "Why Choose Can Discount Moving?",
+        "content": "Choosing Can Discount Moving means opting for a service that values efficiency and sustainability. Here’s why we’re the preferred choice in Ontario and British Columbia:",
+        "list": [
+          {
+            "title": "Experienced Team: ",
+            "text": "Our professionals handle all types of junk with expertise and care."
+          },
+          {
+            "title": "Eco-Friendly Practices: ",
+            "text": "We focus on recycling and donating items to reduce environmental impact."
+          },
+          {
+            "title": "Prompt Service: ",
+            "text": "We ensure quick removal, allowing you to enjoy a clutter-free space without delay."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Commercial moving ",
+    "intro": "Relocating your business requires precision, efficiency, and a keen understanding of the unique demands involved. At Can Discount Moving, we specialize in commercial moving services across Ontario and British Columbia, offering tailored solutions for businesses of all sizes. Whether you’re moving a small office or a large retail space, our expert team ensures a seamless transition with minimal disruption to your operations.",
+    "cards": [
+      {
+        "title": "Services We Offer",
+        "content": "",
+        "list": [
+          {
+            "title": "Office Relocations: ",
+            "text": "We manage the entire process of moving office equipment, furniture, and files efficiently. Our goal is to get your office up and running in your new location with minimal downtime."
+          },
+          {
+            "title": "Retail and Warehouse Moves: ",
+            "text": "Our team is experienced in handling large-scale relocations, including retail stores and warehouses. We ensure that all inventory and equipment are transported safely and set up properly."
+          },
+          {
+            "title": "Specialized Equipment: ",
+            "text": "We handle specialized equipment and technology with precision, ensuring that your valuable assets arrive in perfect working condition."
+          },
+          {
+            "title": "Packing and Unpacking: ",
+            "text": "Our professional packers use high-quality materials to secure your items during transit. We assist with unpacking and setting up your new space to meet your operational needs."
+          },
+          {
+            "title": "Post-Move Support: ",
+            "text": "We provide post-move assistance to address any issues and ensure that your new location meets all your requirements."
+          }
+        ]
+      },
+      {
+        "title": "Tailored Solutions for Your Business",
+        "content": "At Can Discount Moving, we recognize that every business relocation is unique. Our team provides customized moving plans that cater to your specific needs, ensuring that your move aligns with your schedule and business requirements. From office furniture and equipment to sensitive documents, we handle all aspects of your move with utmost care."
+      },
+      {
+        "title": "Why Choose Can Discount Moving?",
+        "content": "",
+        "list": [
+          {
+            "title": "Experienced Team: ",
+            "text": "Our professionals bring extensive experience to commercial relocations, ensuring a smooth and efficient move."
+          },
+          {
+            "title": "Custom Solutions: ",
+            "text": "We offer tailored moving plans to suit your specific business needs."
+          },
+          {
+            "title": "Reliable Service: ",
+            "text": "Count on us for reliable, on-time service that minimizes disruption to your business."
+          },
+          {
+            "title": "Competitive Pricing: ",
+            "text": "We offer transparent pricing with no hidden fees, providing excellent value for your moving needs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Piano moving ",
+    "intro": "Moving a piano demands special care and expertise. At Can Discount Moving, we offer specialized piano moving services across Ontario and British Columbia, ensuring your instrument’s safety and functionality. Whether you have a grand piano or an upright, our experienced team will manage every aspect of the move with precision and care.",
+    "cards": [
+      {
+        "title": "Why Choose Our Piano Moving Services?",
+        "content": "",
+        "list": [
+          {
+            "title": "Specialized Expertise: ",
+            "text": "Our team has extensive experience in handling pianos of all types and sizes. We ensure your piano is transported safely and efficiently."
+          },
+          {
+            "title": "Customized Moving Plans: ",
+            "text": "We create personalized moving plans to fit your piano’s specific needs. This includes disassembly, packing, and reassembly at your new location."
+          },
+          {
+            "title": "Secure Packing and Transport: ",
+            "text": "We use high-quality materials and specialized equipment to protect your piano during transport. Our methods prevent damage throughout the move."
+          },
+          {
+            "title": "Handling and Placement: ",
+            "text": "At your new location, we carefully place your piano and ensure it is set up correctly. Our goal is to have it ready for use as soon as possible."
+          },
+          {
+            "title": "Insurance Coverage: ",
+            "text": "To provide peace of mind, we offer comprehensive insurance options. This coverage protects your piano against unforeseen issues."
+          }
+        ]
+      },
+      {
+        "title": "Our Piano Moving Process",
+        "content": "",
+        "list": [
+          {
+            "title": "Pre-Move Consultation: ",
+            "text": "We evaluate your piano and the moving environment to plan effectively. This includes measuring doorways, stairs, and elevators to ensure a smooth transition."
+          },
+          {
+            "title": "Disassembly and Packing: ",
+            "text": "Our professionals carefully disassemble and pack your piano. We use padded covers and custom crates to safeguard it during the move."
+          },
+          {
+            "title": "Transport and Reassembly: ",
+            "text": "We transport your piano with specialized equipment and reassemble it at the new location. We ensure it arrives in perfect condition."
+          },
+          {
+            "title": "Post-Move Tuning: ",
+            "text": "If needed, we arrange a piano tuning service to ensure your instrument sounds its best after the move."
+          }
+        ]
+      },
+      {
+        "title": "Why Trust Can Discount Moving?",
+        "content": "",
+        "list": [
+          {
+            "title": "Experienced Movers: ",
+            "text": "We have years of experience in handling pianos, ensuring expert care."
+          },
+          {
+            "title": "Attention to Detail: ",
+            "text": "We focus on every detail to make sure your piano arrives safely."
+          },
+          {
+            "title": "Reliable Service: ",
+            "text": "We provide dependable service with clear communication and timely execution."
+          },
+          {
+            "title": "Customer Satisfaction: ",
+            "text": "We are committed to delivering exceptional service and ensuring your complete satisfaction."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Last minute movers",
+    "intro": "Unexpected changes can make last-minute moves stressful. At Can Discount Moving, we specialize in handling urgent relocations across Ontario and British Columbia with efficiency and care. Whether you need to move on short notice due to a sudden job change, lease ending, or any other urgent reason, our team is here to ensure a smooth and stress-free transition.",
+    "cards": [
+      {
+        "title": "Why Choose Our Last Minute Moving Services?",
+        "content": "",
+        "list": [
+          {
+            "title": "Quick Response: ",
+            "text": "We understand that time is of the essence for last-minute moves. Our team responds promptly to your request and works quickly to meet your moving needs."
+          },
+          {
+            "title": "Efficient Planning: ",
+            "text": "Even with limited time, we develop a streamlined moving plan. We handle all details efficiently to ensure your move is completed on schedule."
+          },
+          {
+            "title": "Experienced Movers: ",
+            "text": "Our professionals are skilled in managing quick turnarounds. We have the expertise to handle all types of moves, ensuring your belongings are transported safely."
+          },
+          {
+            "title": "Flexible Scheduling: ",
+            "text": "We offer flexible scheduling options to accommodate your urgent moving timeline. Our goal is to fit seamlessly into your schedule, no matter how tight it may be."
+          },
+          {
+            "title": "Comprehensive Services: ",
+            "text": "From packing and loading to transportation and unpacking, we provide a full range of services for last-minute moves. We handle every step to minimize stress and ensure a smooth process."
+          }
+        ]
+      },
+      {
+        "title": "Our Last Minute Movers",
+        "content": "",
+        "list": [
+          {
+            "title": "Initial Consultation: ",
+            "text": "We quickly assess your moving needs and discuss your requirements. This helps us create a tailored plan that meets your urgency and specifications."
+          },
+          {
+            "title": "Rapid Packing and Preparation: ",
+            "text": "Our team works efficiently to pack and prepare your belongings. We use high-quality materials to ensure everything is securely packed for transport."
+          },
+          {
+            "title": "Swift Transport: ",
+            "text": "We manage the transport of your items with speed and care. Our team ensures that your belongings arrive at your new location safely and on time."
+          },
+          {
+            "title": "Unpacking and Setup: ",
+            "text": "Upon arrival, we assist with unpacking and setting up your new space. We aim to get you settled in quickly, so you can focus on getting back to your routine."
+          }
+        ]
+      },
+      {
+        "title": "Why Trust Can Discount Moving for Last Minute Moves?",
+        "content": "",
+        "list": [
+          {
+            "title": "Timely Execution: ",
+            "text": "We pride ourselves on delivering prompt and efficient service, even under tight deadlines."
+          },
+          {
+            "title": "Expert Handling: ",
+            "text": "Our experienced team manages every detail with care, ensuring a smooth transition."
+          },
+          {
+            "title": "Stress-Free Experience: ",
+            "text": "We aim to minimize the stress of last-minute moves with our comprehensive and professional approach."
+          },
+          {
+            "title": "Customer Satisfaction: ",
+            "text": "We are committed to providing exceptional service and ensuring your complete satisfaction."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Packing services",
+    "intro": "Packing can be one of the most daunting aspects of moving, but Can Discount Moving simplifies the process. We offer professional packing services designed to make your relocation smooth and stress-free. Whether you’re moving locally in Ontario, British Columbia, or across Canada, our team provides reliable and efficient packing solutions tailored to your needs.",
+    "cards": [
+      {
+        "title": "Why Choose Our Packing Services?",
+        "content": "",
+        "list": [
+          {
+            "title": "Professional Packing: ",
+            "text": "Our experienced packers use high-quality materials to ensure your belongings remain secure. We handle everything from delicate items to bulky furniture with utmost care and precision."
+          },
+          {
+            "title": "Customized Solutions: ",
+            "text": "Every move is unique. Therefore, we collaborate with you to create a personalized packing plan that fits your specific needs, whether you’re downsizing, relocating offices, or moving to a new home."
+          },
+          {
+            "title": "Efficient Packing Process: ",
+            "text": "To save you time and effort, our team streamlines the packing process. We quickly and safely pack your items, ensuring everything is ready for transport without delays."
+          },
+          {
+            "title": "Secure Handling: ",
+            "text": "We label and organize your belongings carefully. This method ensures they are easily identifiable and protected during the move, minimizing the risk of damage."
+          },
+          {
+            "title": "Unpacking Assistance: ",
+            "text": "Once you arrive at your new location, we offer unpacking services to help you settle in quickly. We assist with organizing and arranging your belongings, allowing you to enjoy your new space without the hassle of unpacking."
+          }
+        ]
+      },
+      {
+        "title": "Our Packing Service Process",
+        "content": "",
+        "list": [
+          {
+            "title": "Initial Assessment: ",
+            "text": "We start by assessing your packing needs. Our team discusses your requirements and provides recommendations based on the size and complexity of your move."
+          },
+          {
+            "title": "Quality Packing Materials: ",
+            "text": "We use premium packing materials such as boxes, bubble wrap, and packing tape to ensure the safety of your items during transport."
+          },
+          {
+            "title": "Efficient Packing: ",
+            "text": "Our team packs your belongings with care, handling each item according to its specific needs—from fragile glassware to heavy furniture."
+          },
+          {
+            "title": "Safe Transport: ",
+            "text": "After packing, we carefully load and transport your items to the new location, ensuring they arrive in excellent condition."
+          },
+          {
+            "title": "Unpacking and Setup:",
+            "text": " Once your move is complete, we assist with unpacking and organizing. Our goal is to make your transition to your new home or office as smooth as possible."
+          }
+        ]
+      },
+      {
+        "title": "Why Trust Can Discount Moving for Packing Services?",
+        "content": "",
+        "list": [
+          {
+            "title": "Expert Packers: ",
+            "text": "Our team has the expertise to manage all types of packing needs, ensuring your belongings are well-protected."
+          },
+          {
+            "title": "Attention to Detail: ",
+            "text": "We focus on every detail of the packing process, from material selection to careful handling."
+          },
+          {
+            "title": "Customer Satisfaction: ",
+            "text": "We are committed to providing excellent service and ensuring a stress-free moving experience."
+          },
+          {
+            "title": "Reliable and Efficient: ",
+            "text": "Our efficient packing services save you time and reduce the hassle of moving."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Condo and apartment moving",
+    "intro": "Relocating to a new condo or apartment can indeed be challenging. However, at Can Discount Moving, we make it easy by offering efficient and stress-free moving solutions across Canada, including Ontario and British Columbia. Our experienced team ensures your move is handled with care, allowing you to focus on settling into your new home comfortably.",
+    "cards": [
+      {
+        "title": "Why Choose Us for Your Condo or <br/> Apartment Move?",
+        "content": "",
+        "list": [
+          {
+            "title": "Expert Handling: ",
+            "text": "Moving into a condo or apartment often involves navigating tight spaces and dealing with access restrictions. Fortunately, our skilled movers expertly manage these challenges, ensuring a smooth transition from start to finish."
+          },
+          {
+            "title": "Customized Moving Plans: ",
+            "text": "Each move is unique; therefore, we tailor our services to fit your specific needs. Whether you’re moving into a high-rise or a low-rise apartment, we create a moving plan that aligns perfectly with your requirements."
+          },
+          {
+            "title": "Efficient and Safe Moving: ",
+            "text": "To prioritize the safety of your belongings, we use high-quality packing materials and equipment. Consequently, we protect your items and ensure they are transported securely."
+          },
+          {
+            "title": "Timely Service: ",
+            "text": "We understand the importance of timing. As a result, our team works diligently to complete your move within the agreed timeframe, minimizing any disruption to your daily life."
+          },
+          {
+            "title": "Comprehensive Services: ",
+            "text": "From packing and loading to unloading and unpacking, we cover every aspect of your move. Our goal is to make your transition as smooth and hassle-free as possible."
+          }
+        ]
+      },
+      {
+        "title": "Our Condo and Apartment Moving Process",
+        "content": "",
+        "list": [
+          {
+            "title": "Initial Consultation: ",
+            "text": "We begin by discussing your specific moving needs. Subsequently, our team provides a detailed plan to ensure a successful move that meets all your expectations."
+          },
+          {
+            "title": "Packing and Preparation: ",
+            "text": "Using high-quality materials, we pack your belongings securely. Additionally, we label and organize items for easy identification and unpacking at your new location."
+          },
+          {
+            "title": "Transport and Handling: ",
+            "text": "Our movers use specialized equipment to navigate tight spaces and handle any challenges that arise during the move. Thus, we ensure your belongings are transported efficiently and safely."
+          },
+          {
+            "title": "Unloading and Setup: ",
+            "text": "Upon arrival at your new place, we unload and unpack your items according to your preferences. Consequently, we assist with setting up your new space to help you settle in quickly."
+          },
+          {
+            "title": "Final Touches: ",
+            "text": "We conduct a thorough check to ensure everything is in place and you’re satisfied with the move. Ultimately, our goal is to provide a positive experience and a smoothly transitioned home."
+          }
+        ]
+      },
+      {
+        "title": "Why Trust Can Discount Moving?",
+        "content": "",
+        "list": [
+          {
+            "title": "Experienced Team: ",
+            "text": "Our movers have extensive experience with condo and apartment relocations, handling all aspects with professionalism and care."
+          },
+          {
+            "title": "Attention to Detail: ",
+            "text": "We focus on every detail, ensuring a smooth and efficient moving process from start to finish."
+          },
+          {
+            "title": "Customer-Centric Approach: ",
+            "text": "We prioritize your satisfaction and work closely with you to meet your specific needs and expectations."
+          },
+          {
+            "title": "Reliable and Efficient: ",
+            "text": "Our commitment to reliability and efficiency means you can trust us to complete your move on time and to your satisfaction."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Residential moving",
+    "intro": "Moving to a new home should be exciting, not stressful. At Can Discount Moving, we specialize in residential moving services across Canada, including Ontario and British Columbia (BC). Our dedicated team ensures a seamless transition to your new home with professionalism and care.",
+    "cards": [
+      {
+        "title": "Why Choose Us?",
+        "content": "With Can Discount Moving, you gain several advantages that make your residential move smoother and more efficient:",
+        "list": [
+          {
+            "title": "Experienced Professionals: ",
+            "text": "Our team consists of skilled professionals who are experts in managing all types of residential moves. We have extensive experience in handling everything from small apartments to large homes. Our movers are trained to handle your belongings with the utmost care, ensuring that everything arrives at your new home in the same condition it left."
+          },
+          {
+            "title": "Customer-Centric Approach: ",
+            "text": "We put your needs and preferences at the center of our service. We work closely with you to understand your specific requirements, whether it’s a complex move with multiple stops or special handling for delicate items. Our goal is to provide a moving experience that meets your expectations and adapts to your unique situation, ensuring your complete satisfaction."
+          },
+          {
+            "title": "Reliable and Timely Service: ",
+            "text": "Punctuality and reliability are at the core of our service. We understand the importance of sticking to a schedule and keeping your move on track. By adhering to agreed timelines and providing transparent communication, we ensure that your move is completed on time and within budget. Our commitment to reliability means you can trust us to handle every aspect of your move efficiently and professionally."
+          }
+        ]
+      },
+      {
+        "title": "Tailored Moving Solutions",
+        "content": "We understand that each move is unique. Therefore, we create a customized moving plan that suits your needs. From packing your belongings to unpacking at your new residence, we handle every detail with precision. Our services include:",
+        "list": [
+          {
+            "title": "Efficient Packing and Unpacking: ",
+            "text": "We use high-quality packing materials to safeguard your items. Our team ensures that everything is organized and settled in your new home."
+          },
+          {
+            "title": "Furniture Handling: ",
+            "text": "Our experts manage the disassembly, transport, and reassembly of your furniture, making sure it arrives in perfect condition."
+          },
+          {
+            "title": "Specialized Care for Valuables: ",
+            "text": "Whether it’s antiques, artwork, or sensitive items, we treat your valuables with the utmost care."
+          }
+        ]
+      }
+    ]
+  }
+]

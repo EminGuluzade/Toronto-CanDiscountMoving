@@ -1,0 +1,60 @@
+.detailPage-cards {
+  margin-bottom: 80px;
+  display: grid;
+  gap: 48px;
+  grid-template-columns: 1fr;
+  .detailPage-card {
+    &__title {
+      font-size: 28px;
+      font-weight: 700;
+      line-height: 36px;
+      text-align: left;
+      max-width: 644px;
+      margin-bottom: 24px;
+    }
+
+    &__description {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      text-align: left;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .detailPage-cards {
+    margin-bottom: 100px;
+    gap: 52px;
+    .detailPage-card {
+      &__title {
+        font-size: 32px;
+        line-height: 40px;
+      }
+    }
+  }
+}
+@media (min-width: 1024px) {
+  .detailPage-cards {
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 140px;
+    gap: 24px;
+  }
+}
+
+.detailPage-card {
+  ul {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    list-style: disc;
+    line-height: 1.5;
+    margin-left: 20px;
+    font-weight: 400;
+    li {
+      .list-title {
+        font-weight: 700;
+      }
+    }
+  }
+}

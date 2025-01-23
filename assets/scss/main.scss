@@ -1,0 +1,11 @@
+@import "./variables";
+@import "./base.scss";
+@import "./footer.scss";
+@import "./header";
+
+//Pages
+@import "./pages/home";
+@import "./pages/services";
+@import "./pages/contact";
+@import "./pages/about";
+@import "./pages/detail";

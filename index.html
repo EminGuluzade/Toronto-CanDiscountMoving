@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="IT Professionals agency specializing in UI/UX design, frontend, backend, and network support."
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link
+      rel="icon"
+      href="./assets/images/logo-window.jpg"
+      sizes="32x32"
+      type="image/jpg"
+    />
+    <title>Can Discount Moving</title>
+
+    <link rel="stylesheet" href="./assets/scss/main.css" />
+  </head>
+  <body>
+    <div class="overlay"></div>
+    <header class="header">
+      <nav class="nav container">
+        <a href="#" class="nav__logo" aria-label="Homepage">
+          <img src="assets/images/logo.png" alt="logo" />
+        </a>
+        <div class="nav__menu" id="nav-menu">
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a href="./pages/about.html" aria-label="Learn more about us"
+                >About us</a
+              >
+            </li>
+            <li class="nav__item" aria-label="Explore our services">
+              <a href="./pages/services.html">Services</a>
+            </li>
+            <li class="nav__item">
+              <a href="./pages/contact.html" aria-label="Get in touch with us"
+                >Contact us</a
+              >
+            </li>
+          </ul>
+          <a
+            class="nav-btn"
+            href="./pages/contact.html#quote"
+            aria-label="Get in touch with us"
+          >
+            <span>Get free quote</span>
+          </a>
+        </div>
+
+        <div class="nav__toggle" id="nav-toggle">
+          <div class="line line1"></div>
+          <div class="line line2"></div>
+          <div class="line line3"></div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="moving-company-main main-wrapper">
+      <div class="container moving-company">
+        <div class="moving-company__content">
+          <h1 class="moving-company__content-title">
+            <span> Toronto’s </span>Best Moving Company
+          </h1>
+          <p class="moving-company__content-description">
+            Can Discount Moving Company is a reputable and customer-oriented
+            moving company that has been serving clients with excellence and
+            professionalism for years. As a leader in the moving industry, Can
+            Discount Moving takes pride in offering reliable, efficient, and
+            affordable moving services tailored to meet the unique needs of each
+            client.
+          </p>
+        </div>
+        <div class="moving-company__image">
+          <img
+            src="./assets/images/redCargeMens.png"
+            alt="Movers carrying boxes"
+          />
+        </div>
+      </div>
+    </main>
+
+    <section class="container moving-info">
+      <div class="moving-info__image">
+        <img
+          src="./assets/images/blueCargoMens.png"
+          alt="Movers loading a truck"
+        />
+      </div>
+      <div class="moving-info__content">
+        <h2 class="moving-info__content-title">
+          Make Moving in Toronto Simple with Us
+        </h2>
+        <p class="moving-info__content-description">
+          Moving doesn’t have to be stressful. At Can Discount Moving, we make
+          your move smooth and hassle-free with reliable support, careful
+          packing, and expert handling. Choose Toronto’s trusted moving experts
+          for a seamless experience.
+        </p>
+        <div class="moving-info__services">
+          <div class="service">
+            <div class="service__title">
+              <div class="service__icon">
+                <img src="./assets/icons/happy-customer.svg" alt="Customer" />
+              </div>
+              <h3>Happy Customer</h3>
+            </div>
+            <p class="service__description">
+              We take pride in creating happy customers by delivering reliable
+              and stress-free moving services.
+            </p>
+          </div>
+          <div class="service">
+            <div class="service__title">
+              <div class="service__icon">
+                <img src="./assets/icons/accesibility.svg" alt="Availability" />
+              </div>
+              <h3>7/24 Availability</h3>
+            </div>
+            <p class="service__description">
+              We’re here for you 24/7, ensuring your move is convenient, smooth,
+              and stress-free.
+            </p>
+          </div>
+          <div class="service">
+            <div class="service__title">
+              <div class="service__icon">
+                <img src="./assets/icons/packing.svg" alt="Packing" />
+              </div>
+              <h3>Careful Packing</h3>
+            </div>
+            <p class="service__description">
+              We pack your belongings with care, using quality materials for
+              secure transport.
+            </p>
+          </div>
+          <div class="service">
+            <div class="service__title">
+              <div class="service__icon">
+                <img src="./assets/icons/delivery.svg" alt="Delivery" />
+              </div>
+              <h3>Fast Delivery</h3>
+            </div>
+            <p class="service__description">
+              We ensure fast and reliable delivery services to make your move
+              smooth and seamless.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container services">
+      <h2 class="services__title">Services That We Offer</h2>
+      <div class="services__grid delete-with-responsive">
+        <article class="service-card">
+          <div class="service-card__icon">
+            <img
+              src="./assets/icons/services/business.svg"
+              alt="Business Moving"
+            />
+          </div>
+          <h3 class="service-card__title">Small and Big Business Moving</h3>
+          <p class="service-card__description">
+            Efficient and reliable moving solutions tailored for businesses of
+            all sizes.
+          </p>
+          <a href="./pages/detail.html?id=1" class="service-card__button"
+            >Read More</a
+          >
+        </article>
+
+        <article class="service-card">
+          <div class="service-card__icon">
+            <img src="./assets/icons/services/areas.svg" alt="School Moving" />
+          </div>
+          <h3 class="service-card__title">Schools and public areas moving</h3>
+          <p class="service-card__description">
+            Efficient and safe moving for schools and public spaces.
+          </p>
+          <a href="./pages/detail.html?id=2" class="service-card__button"
+            >Read More</a
+          >
+        </article>
+
+        <article class="service-card">
+          <div class="service-card__icon">
+            <img src="./assets/icons/services/senior.svg" alt="Senior Moving" />
+          </div>
+          <h3 class="service-card__title">Senior Moving</h3>
+          <p class="service-card__description">
+            Compassionate and hassle-free moving services designed specifically
+            for seniors.
+          </p>
+          <a href="./pages/detail.html?id=3" class="service-card__button"
+            >Read More</a
+          >
+        </article>
+
+        <article class="service-card">
+          <div class="service-card__icon">
+            <img
+              src="./assets/icons/services/student.svg"
+              alt="Student Moving"
+            />
+          </div>
+          <h3 class="service-card__title">Student Moving</h3>
+          <p class="service-card__description">
+            Affordable and convenient moving services tailored for busy
+            students.
+          </p>
+          <a href="./pages/detail.html?id=4" class="service-card__button"
+            >Read More</a
+          >
+        </article>
+
+        <article class="service-card">
+          <div class="service-card__icon">
+            <img src="./assets/icons/services/house.svg" alt="House Moving" />
+          </div>
+          <h3 class="service-card__title">House Moving</h3>
+          <p class="service-card__description">
+            Stress-free and reliable moving services to make your house a home,
+            wherever you go.
+          </p>
+          <a href="./pages/detail.html?id=5" class="service-card__button"
+            >Read More</a
+          >
+        </article>
+        <article class="service-card">
+          <div class="service-card__icon">
+            <img src="./assets/icons/services/nursing.svg" alt="Nursing Home" />
+          </div>
+          <h3 class="service-card__title">Nursing Home</h3>
+          <p class="service-card__description">
+            Caring and seamless moving services for a smooth transition to
+            nursing homes.
+          </p>
+          <a href="./pages/detail.html?id=6" class="service-card__button"
+            >Read More</a
+          >
+        </article>
+      </div>
+      <div class="services__all">
+        <a href="/pages/services.html">View all services</a>
+      </div>
+    </section>
+
+    <section class="choosing-company-main">
+      <div class="container choosing-company">
+        <div class="choosing-company__content">
+          <h1 class="choosing-company__content-title">
+            Wyh choose our company?
+          </h1>
+          <p class="choosing-company__content-description">
+            At Can Discount Moving, our mission is to exceed your expectations
+            with exceptional moving services. We offer competitive pricing,
+            personalized service, and a strong commitment to customer
+            satisfaction. Consequently, our professionals work to make your move
+            in Toronto as seamless and stress-free as possible. From our
+            comprehensive services to our attention to detail, we strive to be
+            the moving company you can trust.
+          </p>
+          <div class="choosing-company__content-btn">
+            <a href="./pages/about.html">Read More</a>
+          </div>
+          <div class="choosing-company__content-images">
+            <div>
+              <img
+                src="./assets/images/redCargoMensHand.png"
+                alt="Movers carrying boxes"
+              />
+            </div>
+            <div>
+              <img
+                src="./assets/images/blueCargoMensHand.png"
+                alt="Movers carrying boxes"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="choosing-company__image">
+          <img
+          height="100%"
+            src="./assets/images/blueCargoMensWithHand.png"
+            alt="Movers carrying boxes"
+          />
+        </div>
+      </div>
+    </section>
+
+    <section class="container missions">
+      <div class="missions__card"></div>
+      <div class="missions__card"></div>
+      <div class="missions__card"></div>
+    </section>
+
+    <section class="mission container">
+      <div class="mission__items">
+        <div class="mission__item">
+          <div class="mission__icon">
+            <img src="./assets/icons/chevron.svg" alt="chevron" />
+          </div>
+          <div class="mission__main">
+            <div class="mission__line mission__line--top">
+              <span class="mission__dot mission__dot--red"></span>
+            </div>
+            <div class="mission__content">
+              <h2 class="mission__content__title">Our Mission</h2>
+              <p class="mission__content__text">
+                Our mission is to provide reliable, efficient, and stress-free
+                moving services to our community, ensuring every move is handled
+                with care and professionalism.
+              </p>
+            </div>
+
+            <div class="mission__line mission__line--bottom">
+              <span class="mission__dot mission__dot--red"></span>
+            </div>
+          </div>
+        </div>
+        <div class="mission__item mission__item-right">
+          <div class="mission__icon">
+            <img src="./assets/icons/chevron.svg" alt="chevron" />
+          </div>
+          <div class="mission__main">
+            <div class="mission__line mission__line--top">
+              <span class="mission__dot mission__dot--red"></span>
+            </div>
+            <div class="mission__content">
+              <h2 class="mission__content__title">Our Vision</h2>
+              <p class="mission__content__text">
+                Our vision is to be the leading moving company in Toronto,
+                recognized for our commitment to quality, customer satisfaction,
+                and seamless moving experiences.
+              </p>
+            </div>
+
+            <div class="mission__line mission__line--bottom">
+              <span class="mission__dot mission__dot--red"></span>
+            </div>
+          </div>
+        </div>
+        <div class="mission__item">
+          <div class="mission__icon">
+            <img src="./assets/icons/chevron.svg" alt="chevron" />
+          </div>
+          <div class="mission__main">
+            <div class="mission__line mission__line--top">
+              <span class="mission__dot mission__dot--red"></span>
+            </div>
+            <div class="mission__content">
+              <h2 class="mission__content__title">Our Goals</h2>
+              <p class="mission__content__text">
+                Our goals are to continuously improve our services, expand our
+                reach, and maintain the highest standards of safety and
+                reliability in every move we handle.
+              </p>
+            </div>
+
+            <div class="mission__line mission__line--bottom">
+              <span class="mission__dot mission__dot--red"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="how-it-work container">
+      <div class="how-it-work__image">
+        <img src="/assets/images/howItWork.png" alt="Moving truck" />
+      </div>
+
+      <div class="how-it-work__content">
+        <h2 class="how-it-work__title">How it work</h2>
+        <div class="how-it-work__steps">
+          <div class="how-it-work__step">
+            <div class="how-it-work__step-header">
+              <div class="how-it-work__step-header-number">
+                <span>1</span>
+              </div>
+              <h3 class="how-it-work__step-header-title">Get free quote</h3>
+            </div>
+            <div class="how-it-work__step-description">
+              <p>
+                Easily request and receive a personalized quote to plan your
+                move with confidence and clarity.
+              </p>
+            </div>
+            <div class="how-it-work__step-line"></div>
+          </div>
+          <div class="how-it-work__step">
+            <div class="how-it-work__step-header">
+              <div class="how-it-work__step-header-number">
+                <span>2</span>
+              </div>
+              <h3 class="how-it-work__step-header-title">Pick your things</h3>
+            </div>
+            <div class="how-it-work__step-description">
+              <p>
+                Choose the items you want to move, and we’ll handle the rest
+                with care and precision.
+              </p>
+            </div>
+            <div class="how-it-work__step-line"></div>
+          </div>
+          <div class="how-it-work__step">
+            <div class="how-it-work__step-header">
+              <div class="how-it-work__step-header-number">
+                <span>3</span>
+              </div>
+              <h3 class="how-it-work__step-header-title">Move your things</h3>
+            </div>
+            <div class="how-it-work__step-description">
+              <p>
+                We safely transport your belongings to your new location,
+                ensuring a smooth and timely move.
+              </p>
+            </div>
+            <div class="how-it-work__step-line"></div>
+          </div>
+          <div class="how-it-work__step">
+            <div class="how-it-work__step-header">
+              <div class="how-it-work__step-header-number">
+                <span>4</span>
+              </div>
+              <h3 class="how-it-work__step-header-title">
+                Delivery your things
+              </h3>
+            </div>
+            <div class="how-it-work__step-description">
+              <p>
+                We safely transport your belongings to your new location,
+                ensuring a smooth and timely move.
+              </p>
+            </div>
+            <div class="how-it-work__step-line"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="faq container">
+      <h2 class="faq__title">Frequently Asked Questions</h2>
+      <div class="faq__list">
+        <div class="faq__item" id="faq-item">
+          <button class="faq__item--question" id="faq-question">
+            What areas do you serve?
+            <span class="faq_-icon">
+              <svg
+                class="plus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H16.5V22.5H13.5V16.5H7.5V13.5H13.5V7.5H16.5V13.5H22.5V16.5Z"
+                  fill="#CDD1D6"
+                />
+              </svg>
+
+              <svg
+                class="minus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H7.5V13.5H22.5V16.5Z"
+                  fill="#EA161B"
+                />
+              </svg>
+            </span>
+          </button>
+          <div class="faq__item--answer" id="faq-answer">
+            <p>
+              We proudly serve Toronto and the surrounding areas, offering our
+              professional moving services to both residential and commercial
+              clients. Whether you're moving locally within the city or to
+              nearby regions, our team is equipped to handle your move with
+              efficiency and care. If you're unsure whether we cover your
+              specific location, feel free to contact us, and we'll be happy to
+              assist you.
+            </p>
+          </div>
+        </div>
+        <div class="faq__item" id="faq-item">
+          <button class="faq__item--question" id="faq-question">
+            Do you provide packing materials and services?
+            <span class="faq_-icon">
+              <svg
+                class="plus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H16.5V22.5H13.5V16.5H7.5V13.5H13.5V7.5H16.5V13.5H22.5V16.5Z"
+                  fill="#CDD1D6"
+                />
+              </svg>
+
+              <svg
+                class="minus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H7.5V13.5H22.5V16.5Z"
+                  fill="#EA161B"
+                />
+              </svg>
+            </span>
+          </button>
+          <div class="faq__item--answer" id="faq-answer">
+            <p>
+              Yes, we provide both high-quality packing materials and
+              professional packing services to make your move as smooth as
+              possible. Our packing materials include sturdy boxes, bubble wrap,
+              packing tape, and protective padding to ensure the safety of your
+              belongings. Our experienced packers handle everything from
+              delicate items like glassware and artwork to large and heavy
+              furniture, ensuring they are securely packed and ready for
+              transport. Whether you need full packing services or just
+              materials, we’re here to help!
+            </p>
+          </div>
+        </div>
+        <div class="faq__item" id="faq-item">
+          <button class="faq__item--question" id="faq-question">
+            Can you handle last-minute or emergency moves?
+            <span class="faq_-icon">
+              <svg
+                class="plus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H16.5V22.5H13.5V16.5H7.5V13.5H13.5V7.5H16.5V13.5H22.5V16.5Z"
+                  fill="#CDD1D6"
+                />
+              </svg>
+
+              <svg
+                class="minus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H7.5V13.5H22.5V16.5Z"
+                  fill="#EA161B"
+                />
+              </svg>
+            </span>
+          </button>
+          <div class="faq__item--answer" id="faq-answer">
+            <p>
+              Absolutely! We understand that sometimes moves happen
+              unexpectedly, and you need a reliable team to step in quickly. Our
+              team is equipped to handle last-minute or emergency moves with
+              efficiency and flexibility. Whether it's a sudden change of plans
+              or an urgent relocation, we prioritize your needs and work around
+              your schedule to ensure everything is done smoothly and on time.
+              Just give us a call, and we’ll take care of the rest!
+            </p>
+          </div>
+        </div>
+        <div class="faq__item" id="faq-item">
+          <button class="faq__item--question" id="faq-question">
+            Can you move large or heavy items like pianos?
+            <span class="faq_-icon">
+              <svg
+                class="plus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H16.5V22.5H13.5V16.5H7.5V13.5H13.5V7.5H16.5V13.5H22.5V16.5Z"
+                  fill="#CDD1D6"
+                />
+              </svg>
+
+              <svg
+                class="minus-icon"
+                width="30"
+                height="30"
+                viewBox="0 0 30 30"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM22.5 16.5H7.5V13.5H22.5V16.5Z"
+                  fill="#EA161B"
+                />
+              </svg>
+            </span>
+          </button>
+          <div class="faq__item--answer" id="faq-answer">
+            <p>
+              Yes, we specialize in moving large and heavy items, including
+              pianos, with utmost care and precision. Our team has the necessary
+              expertise, equipment, and techniques to safely transport bulky or
+              delicate items without causing any damage. Whether it's an upright
+              piano or a grand piano, we ensure proper handling and secure
+              transportation to your new location. You can trust us to move your
+              valuable items with the highest level of professionalism.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="footer__content container">
+        <div class="footer__brand">
+          <a href="#">
+            <img
+              loading="lazy"
+              src="/assets/images/logo.png"
+              alt="Logo"
+              class="footer__logo-image"
+            />
+          </a>
+        </div>
+        <div class="footer__info">
+          <div class="footer__about">
+            <p class="footer__about-text">
+              On the one hand, it’s no secret that moving is exhausting and
+              stressful. However, we’re here to help you with managing your
+              relocation stress.
+            </p>
+            <a
+              class="footer__about-btn"
+              href="./pages/contact.html#quote"
+              aria-label="Get in touch with us"
+            >
+              <span>Get free quote</span>
+            </a>
+          </div>
+          <div class="footer__contact">
+            <!-- <p class="footer__contact-item">
+              <span
+                ><img
+                  loading="lazy"
+                  src="./assets/icons/location.svg"
+                  alt="location-icon"
+              /></span>
+
+              <a
+                href="https://maps.app.goo.gl/F3FSeBSZAcK7xQ6z7"
+                target="_blank"
+              >
+              125 Fittons Rd W, Toronto, ON L3V 7T2
+              </a>
+            </p> -->
+            <!-- <p class="footer__contact-item">
+              <span
+                ><img
+                  loading="lazy"
+                  src="./assets/icons/phone.svg"
+                  alt="phone-icon"
+              /></span>
+              <a href="tel:+16478790044"> +1 (647) 879 0044</a>
+            </p> -->
+            <p class="footer__contact-item">
+              <span
+                ><img
+                  loading="lazy"
+                  src="./assets/icons/mail.svg"
+                  alt="mail-icon"
+              /></span>
+              <a href="mailto:info@itprofessionals.ca">
+                33 Davisville Ave, Toronto, ON M4S 2Y9
+              </a>
+            </p>
+          </div>
+        </div>
+        <div class="footer__links">
+          <div class="footer__links_policy">
+            <p class="footer__link">Privacy policy</p>
+            <p class="footer__link">Trust & safety</p>
+            <p class="footer__link">Terms of use</p>
+          </div>
+          <p class="footer__link footer__links--copyright">
+            <img src="assets/icons/c-icon.svg" alt="c-icon" />
+            <span class="text">
+              <span id="footer-date"></span> CanDiscountMoving
+            </span>
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="./main.js"></script>
+  </body>
+</html>

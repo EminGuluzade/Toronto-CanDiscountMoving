@@ -1,0 +1,93 @@
+[
+  {
+    "icon": "business.svg",
+    "alt": "Business Moving",
+    "title": "Small and Big Business Moving",
+    "description": "Efficient and reliable moving solutions tailored for businesses of all sizes.",
+    "data-id": 1
+  },
+  {
+    "icon": "areas.svg",
+    "alt": "School Moving",
+    "title": "Schools and public areas moving",
+    "description": "Efficient and safe moving for schools and public spaces.",
+    "data-id": 2
+  },
+  {
+    "icon": "senior.svg",
+    "alt": "Senior Moving",
+    "title": "Senior Moving",
+    "description": "Compassionate and hassle-free moving services designed specifically for seniors.",
+    "data-id": 3
+  },
+  {
+    "icon": "student.svg",
+    "alt": "Student Moving",
+    "title": "Student Moving",
+    "description": "Affordable and convenient moving services tailored for busy students.",
+    "data-id": 4
+  },
+  {
+    "icon": "house.svg",
+    "alt": "House Moving",
+    "title": "House Moving",
+    "description": "Stress-free and reliable moving services to make your house a home, wherever you go.",
+    "data-id": 5
+  },
+  {
+    "icon": "nursing.svg",
+    "alt": "Nursing Home",
+    "title": "Nursing Home",
+    "description": "Caring and seamless moving services for a smooth transition to nursing homes.",
+    "data-id": 6
+  },
+  {
+    "icon": "junk.svg",
+    "alt": "Junk Removal",
+    "title": "Junk Removal",
+    "description": "Quick and efficient junk removal services to declutter your space with ease.",
+    "data-id": 7
+  },
+  {
+    "icon": "commercial.svg",
+    "alt": "Commercial Moving",
+    "title": "Commercial Moving",
+    "description": "Professional and efficient moving solutions tailored for your business needs.",
+    "data-id": 8
+  },
+  {
+    "icon": "piano.svg",
+    "alt": "Piano Moving",
+    "title": "Piano Moving",
+    "description": "Specialized and careful piano moving services to ensure safe transport.",
+    "data-id": 9
+  },
+  {
+    "icon": "minute.svg",
+    "alt": "Last Minute Movers",
+    "title": "Last Minute Movers",
+    "description": "Reliable and fast-moving services for your urgent, last-minute needs.",
+    "data-id": 10
+  },
+  {
+    "icon": "packing.svg",
+    "alt": "Packing Service",
+    "title": "Packing Service",
+    "description": "Expert packing services to protect your belongings with care and precision.",
+    "data-id": 11
+  },
+  {
+    "icon": "apart.svg",
+    "alt": "Condo and Apartment Moving",
+    "title": "Condo and Apartment Moving",
+    "description": "Smooth and efficient moving services designed for condos and apartments.",
+    "data-id": 12
+  },
+  {
+    "icon": "residental.svg",
+    "alt": "Residential Moving",
+    "title": "Residential Moving",
+    "description": "Trusted residential moving services to make your transition stress-free.",
+    "data-id": 13
+  }
+]

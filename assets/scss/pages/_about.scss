@@ -1,0 +1,125 @@
+.aboutChooseCompany {
+  margin-bottom: 80px;
+  &__title {
+    margin-bottom: 16px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: left;
+  }
+  &__description {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 24px;
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  &__card {
+    background: #fff;
+    border-radius: 40px;
+    padding: 32px 24px;
+    text-align: center;
+    transition: transform 0.3s ease;
+    border: 2px solid #f0f1f4;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    &:hover {
+      box-shadow: 12px 12px 20px 0px #f2f2f2, -12px -12px 20px 0px #f2f2f2;
+    }
+
+    &__icon {
+      background-color: #fff4e6;
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+      img {
+        width: 40px;
+        height: 40px;
+      }
+    }
+
+    &__title {
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 28px;
+      text-align: center;
+    }
+
+    &__description {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 24px;
+      text-align: center;
+      margin-top: 16px;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .aboutChooseCompany {
+    margin-bottom: 100px;
+    &__title {
+      margin-bottom: 20px;
+      font-size: 40px;
+      line-height: 48px;
+    }
+    &__description {
+      max-width: 720px;
+      margin-bottom: 40px;
+    }
+
+    &__grid {
+      gap: 24px;
+    }
+    &__card {
+      padding: 44px;
+      &__icon {
+        width: 100px;
+        height: 100px;
+        padding: 18px;
+        margin-bottom: 32px;
+        img {
+          width: 64px;
+          height: 64px;
+        }
+      }
+
+      &__title {
+        font-size: 24px;
+        line-height: 32px;
+      }
+      &__description {
+        margin-top: 20px;
+      }
+    }
+  }
+}
+@media (min-width: 1024px) {
+  .aboutChooseCompany {
+    &__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
+@media (min-width: 1200px) {
+  .aboutChooseCompany {
+    margin-bottom: 140px;
+    &__description {
+      max-width: 644px;
+      margin-bottom: 36px;
+    }
+  }
+}

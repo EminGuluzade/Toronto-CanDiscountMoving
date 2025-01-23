@@ -1,0 +1,130 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  background-color: #fff;
+  color: $text-dark;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  // list-style: none;
+}
+
+a {
+  text-decoration: none;
+  // color: var(--text-color);
+  color: $text-dark;
+}
+img {
+  display: block;
+}
+.container {
+  width: 91%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0;
+  @media (min-width: 1440px) {
+    padding: 0 64px;
+  }
+}
+
+.main-wrapper {
+  padding: 44px 0;
+  background-size: cover;
+  background-color: $light-blue;
+  display: flex;
+  max-height: max-content;
+  margin-top: 74px;
+}
+@media (min-width: 768px) {
+  .main-wrapper {
+    margin-top: 82px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .main-wrapper {
+    margin-top: 108px;
+    min-height: calc(100vh - 108px);
+    align-items: center;
+  }
+}
+
+.section-wrapper {
+  margin-bottom: 80px;
+  @media screen and (min-width: 768px) {
+    margin-bottom: 100px;
+  }
+  @media screen and (min-width: 1200px) {
+    margin-bottom: 140px;
+  }
+}
+.detailPage-main {
+  padding: 44px 0;
+  background-size: cover;
+  background-color: $light-blue;
+  display: flex;
+  max-height: max-content;
+  margin-top: 74px;
+  &__content {
+    &-title {
+      margin-bottom: 40px;
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 46px;
+      text-align: center;
+    }
+    &-description {
+      font-size: 18px;
+      max-width: 911px;
+      font-weight: 400;
+      line-height: 26px;
+      margin: 0 auto;
+      text-align: center;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    margin-top: 82px;
+
+    &__content {
+      &-title {
+        margin-bottom: 40px;
+        line-height: 72px;
+        font-size: 64px;
+      }
+      &-description {
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 32px;
+        text-align: center;
+      }
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    margin-top: 108px;
+    min-height: calc(100vh - 108px);
+    align-items: center;
+    &__content {
+      &-title {
+        margin-bottom: 48px;
+        line-height: 80px;
+        font-size: 72px;
+      }
+      &-description {
+        font-size: 28px;
+        line-height: 36px;
+      }
+    }
+  }
+}
